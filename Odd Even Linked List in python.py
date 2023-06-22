@@ -1,6 +1,10 @@
 '''Author: Abhay Saxena
 Github username: YourFatherDumb
-Topic: Odd Even Linked List in java and python'''
+Topic: Odd Even Linked List in java and python
+About: Given the head of a singly linked list, group all the nodes with odd indices together followed by the nodes with even indices, and return the reordered list.
+For eg:-
+Input :- head =[8,4,7,2,9]
+Output :- [8,7,9,4,2]'''
 
 
 class ListNode:
